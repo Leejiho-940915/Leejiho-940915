@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -->
 
 ![Leejiho-940915's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejiho-940915&show_icons=true&theme=radical)
-<br><br><br>
 [![Leejiho-940915's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Leejiho-940915&show_icons=true&theme=radical)](https://github.com/Leejiho-940915)
 <br><br><br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=Leejiho-940915&show_icons=true&theme=radical)
