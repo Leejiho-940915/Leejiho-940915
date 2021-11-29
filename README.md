@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+   <h1>⚡ Hi there, I'm Jiho ⚡ </h1>
+  
+
 
 <!--
 **Leejiho-940915/Leejiho-940915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejiho-940915&show_icons=true&theme=radical)
 
+![Leejiho-940915's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejiho-940915&show_icons=true&theme=radical)
+<br><br><br>
+[![Leejiho-940915's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Leejiho-940915&show_icons=true&theme=radical)](https://github.com/Leejiho-940915)
+<br><br><br>
+![trophy](https://github-profile-trophy.vercel.app/?username=Leejiho-940915&show_icons=true&theme=radical)
+ </div> 
+<br>
+  
 <h3 align="center"><b>:bulb: Tech Stack :bulb:</b></h3>
 </br>
 <p align="center">
